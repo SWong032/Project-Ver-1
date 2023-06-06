@@ -1,0 +1,7 @@
+
+Scoreboard
+Player 1 score: 6
+Player 2 score: 5
+Dealer score: 14
+
+Player 1, would you like to hit or stand? (Press h or s)
